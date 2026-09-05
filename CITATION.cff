@@ -1,13 +1,11 @@
 cff-version: 1.2.0
-message: "If you use these data or code, please cite the dataset and the associated article."
+message: "If you use this code, please cite this software and the associated article."
 title: "Analysis code for Global ship recycling separates economic control, legal registration and environmental burdens"
 type: software
-version: 1.0.0
+version: 1.0.1
 date-released: 2026-09-05
 authors:
   - family-names: "Xu"
     given-names: "Jianghao"
-    orcid: "TODO"
-doi: "TODO: reserve or publish the Zenodo DOI"
-repository-code: "TODO: Zenodo record URL"
-license: "LicenseRef-Mixed"
+repository-code: "https://github.com/john-0928/global-ship-recycling-data-code"
+license: MIT
