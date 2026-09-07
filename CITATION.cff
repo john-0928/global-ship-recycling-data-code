@@ -1,11 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite this software and the associated article."
-title: "Analysis code for Global ship recycling separates economic control, legal registration and environmental burdens"
-type: software
-version: 1.0.1
-date-released: 2026-09-05
+message: "If you use this dataset, please cite the archived release."
+title: "Intermediate data and code for global ship recycling analysis"
+type: dataset
+version: 1.1.0
+date-released: 2026-09-07
 authors:
-  - family-names: "Xu"
-    given-names: "Jianghao"
+  - family-names: "Unknown"
 repository-code: "https://github.com/john-0928/global-ship-recycling-data-code"
 license: MIT
